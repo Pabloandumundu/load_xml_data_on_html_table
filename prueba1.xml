@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projets number="5">
+  <projet name="Pelaillo" id="0">
+    <Nombre>Juan</Nombre>
+    <Apellido>Pelaillo</Apellido>
+    <Edad>33</Edad>
+    <Teléfono>612354532</Teléfono>
+  </projet>
+  <projet name="Monchoro" id="1">
+    <Nombre>Gorila</Nombre>
+    <Apellido>Monchoro</Apellido>
+    <Edad>34</Edad>
+    <Teléfono>645654456</Teléfono>
+  </projet>
+  <projet name="Gutierres" id="2">
+    <Nombre>Animal</Nombre>
+    <Apellido>Gutierres</Apellido>
+    <Edad>60</Edad>
+    <Teléfono>645724893</Teléfono>
+  </projet>
+  <projet name="Ayedo" id="3">
+    <Nombre>Susana</Nombre>
+    <Apellido>Ayedo</Apellido>
+    <Edad>43</Edad>
+    <Teléfono>548222948</Teléfono>
+  </projet>
+  <projet name="" id="4">
+
+</projet>
+</projets>
